@@ -4,10 +4,11 @@ int main(){
     int a;
     cin>>a;
     if(a%2==0){
-       cout<<"Even";
+       cout<<"Even \n";
     }
     else{
-        cout<<"Odd";
+        cout<<"Odd \n";
     }
+    cout<<"program completed";
     return 0;
 }
